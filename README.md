@@ -34,11 +34,12 @@ The project includes visualizations such as:
 This project demonstrates the use of Python for data cleaning, analysis, and visualization to extract meaningful insights from restaurant data.
 
 ---
-### 👨‍💻 Author
-**Ujjwal Kumar**
-B.Tech in Computer Science & Engineering
 
+**Ujjwal Kumar**  
+B.Tech in Computer Science & Engineering  
 InternSpark Data Science Internship
+
+
 
 # Loan Approval Prediction using Machine Learning
 
@@ -99,10 +100,9 @@ Develop a machine learning model capable of predicting loan approval after perfo
 - Loan_Approval_Prediction.ipynb
 - Loan_Approval_Prediction_Report.pdf
 
+
 ## Author
 
-**Ujjwal Kumar**
-B.Tech in Computer Science & Engineering
-
+**Ujjwal Kumar**  
+B.Tech in Computer Science & Engineering  
 InternSpark Data Science Internship
-
