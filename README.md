@@ -35,6 +35,8 @@ This project demonstrates the use of Python for data cleaning, analysis, and vis
 
 ---
 
+## Author
+
 **Ujjwal Kumar**  
 B.Tech in Computer Science & Engineering  
 InternSpark Data Science Internship
